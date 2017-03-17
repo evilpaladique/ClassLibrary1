@@ -11,6 +11,6 @@ namespace ClassLibrary1
     {
         public Class1()
         {
-        }
+        }   
     }
 }
